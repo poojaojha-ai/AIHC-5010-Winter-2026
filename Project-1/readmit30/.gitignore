@@ -1,0 +1,14 @@
+# data
+data/raw/
+data/private/
+*.zip
+
+# outputs
+predictions.csv
+executed.ipynb
+__pycache__/
+.venv/
+.ipynb_checkpoints/
+
+# OS/editor
+.DS_Store
