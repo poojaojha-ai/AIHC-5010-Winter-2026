@@ -36,3 +36,4 @@ python batch_score_submissions.py \
   --dev-path   ../scripts/data/public/dev.csv \
   --workdir "$(pwd)/faculty_workdir" --make-site
 
+![Leader Board](../Project-1/readmit30/faculty/docs/leaderboard.png)

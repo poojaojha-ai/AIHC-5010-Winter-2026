@@ -8,7 +8,6 @@ Github repo for AIHC 5010
 
 ![](/assets/project-1-webpage.png)
 
-![Leader Board](Project-1/readmit30/faculty/docs/leaderboard.png)
 
 ### Project 2
 
